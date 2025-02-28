@@ -48,6 +48,13 @@ Open the ```index.html``` file in your preferred web browser. No additional serv
    - Press the Arrow Icon or Hit Enter Button.
    - The Chatbot will Process your Message Using the Google Gemini AI API and Display the Response.
 
+## Screenshots
+
+![Screenshot-1](screenshot-1.png)
+![Screenshot-2](screenshot-2.png)
+![Screenshot-3](screenshot-3.png)
+![Screenshot-4](screenshot-4.png)
+
 ## Contributing
    Contributions are welcome! If you have suggestions, improvements, or bug fixes, please follow these steps:
    1. Fork the repository.
