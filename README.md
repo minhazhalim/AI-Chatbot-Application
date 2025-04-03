@@ -1,5 +1,5 @@
 # AI-Chatbot-Application
-A Normal AI chatbot application built using HTML, CSS, and JavaScript that leverages the Google Gemini AI API to generate intelligent responses. This project is designed to provide an interactive chat experience with no setup and a clean, responsive interface.
+A Normal AI chatbot application that leverages the Google Gemini AI API to generate intelligent responses. This project is designed to provide an interactive chat experience with no setup and a clean, responsive interface.
 
 ## Overview
 This AI Chatbot Application is a lightweight web-based project demonstrating how to integrate the Google Gemini AI API with a front-end built in HTML, CSS, and JavaScript. It is perfect for learning how to connect to an AI service, handling API responses, and building a simple yet interactive user interface.
