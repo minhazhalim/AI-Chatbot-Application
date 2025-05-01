@@ -32,9 +32,9 @@ This AI Chatbot Application is a lightweight web-based project demonstrating how
 ```bash
  cd your-repo-name
 ```
-3. **Open the Application**
+3. **Open the Project Folder**
 
-Open the ```index.html``` file in your preferred web browser. No additional server or build step is required for this simple front-end project.
+Open the ```index.html``` file in your preferred web browser.
 
 ## Usage
 
