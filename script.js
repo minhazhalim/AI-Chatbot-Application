@@ -6,8 +6,8 @@ const chatBotToggler = document.querySelector('#chatbot-toggler');
 const closeChatbot = document.querySelector('#close-chatbot');
 const fileUploadWrapper = document.querySelector('.file-upload-wrapper');
 const fileCancel = fileUploadWrapper.querySelector('#file-cancel');
-const API_KEY = 'AIzaSyAbVvgLXkeqmhj7_gexyjvMNc9quTgGK2A';
-const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${API_KEY}`;
+const API_KEY = 'AIzaSyB9-815sdePJMa1bXH0gN8hb55otbhKBLs';
+const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${API_KEY}`;
 const chatHistory = [];
 const initialInputHeight = messageInput.scrollHeight;
 const userData = {
